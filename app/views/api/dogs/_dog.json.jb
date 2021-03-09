@@ -1,0 +1,6 @@
+{
+  name: dog.name,
+  age: dog.age,
+  breed: dog.breed,
+  added_by: dog.user.name,
+}
